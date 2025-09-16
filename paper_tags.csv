@@ -1,0 +1,19 @@
+arx_number,tags,scores
+1006.4395,"['quantum information', 'quantum computing', 'quantum advantage']","[0.966, 0.866, 0.47]"
+1308.2928,"['randomized benchmarking', 'quantum information', 'quantum computing', 'quantum error correction', 'noise', 'error mitigation', 'quantum advantage']","[0.996, 0.996, 0.957, 0.936, 0.91, 0.888, 0.537]"
+1603.03148,"['quantum information', 'error mitigation', 'quantum advantage', 'quantum chemistry', 'quantum computing', 'tensor networks', 'quantum error correction']","[0.843, 0.701, 0.7, 0.696, 0.442, 0.424, 0.334]"
+1812.06848,"['noise', 'quantum advantage', 'quantum information']","[0.711, 0.706, 0.573]"
+2212.06181,"['randomized benchmarking', 'quantum advantage', 'quantum computing', 'error mitigation', 'noise', 'quantum information', 'quantum error correction']","[0.983, 0.835, 0.771, 0.72, 0.7, 0.542, 0.313]"
+2302.13853,"['randomized benchmarking', 'quantum computing', 'quantum information', 'quantum advantage', 'quantum error correction', 'error mitigation']","[0.994, 0.988, 0.957, 0.79, 0.748, 0.619]"
+2312.15836,"['randomized benchmarking', 'quantum computing', 'quantum information', 'quantum advantage', 'error mitigation', 'quantum error correction']","[0.994, 0.975, 0.961, 0.736, 0.657, 0.492]"
+2407.09942,"['randomized benchmarking', 'noise', 'quantum information', 'quantum computing']","[0.878, 0.877, 0.866, 0.821]"
+2408.07677,"['quantum computing', 'randomized benchmarking', 'error mitigation', 'quantum information', 'quantum error correction', 'tensor networks']","[0.887, 0.726, 0.682, 0.666, 0.4, 0.305]"
+2410.08683,['randomized benchmarking'],[0.759]
+2412.18578,"['randomized benchmarking', 'quantum information', 'quantum computing', 'quantum error correction', 'error mitigation']","[0.985, 0.972, 0.877, 0.652, 0.542]"
+2502.00154,"['quantum computing', 'quantum information', 'randomized benchmarking', 'quantum error correction']","[0.945, 0.818, 0.787, 0.412]"
+2502.00179,['quantum computing'],[0.324]
+2506.19232,"['quantum computing', 'machine learning', 'quantum information', 'quantum advantage', 'tensor networks', 'error mitigation', 'quantum error correction', 'randomized benchmarking']","[0.911, 0.863, 0.488, 0.435, 0.388, 0.367, 0.359, 0.348]"
+2506.20655,"['quantum computing', 'quantum information', 'quantum advantage', 'photonics', 'quantum chemistry', 'quantum error correction', 'error mitigation', 'tensor networks', 'machine learning', 'classical shadows', 'randomized benchmarking']","[0.994, 0.936, 0.913, 0.859, 0.714, 0.57, 0.496, 0.412, 0.335, 0.321, 0.308]"
+2507.11536,"['quantum information', 'quantum computing', 'quantum error correction', 'error mitigation', 'quantum advantage']","[0.97, 0.943, 0.82, 0.78, 0.43]"
+2508.05720,"['quantum information', 'quantum advantage', 'quantum computing', 'tensor networks', 'randomized benchmarking', 'photonics', 'error mitigation', 'quantum chemistry', 'machine learning']","[0.801, 0.58, 0.527, 0.514, 0.371, 0.339, 0.332, 0.304, 0.303]"
+2509.05295,"['quantum computing', 'quantum advantage', 'quantum information', 'noise', 'classical shadows']","[0.987, 0.577, 0.552, 0.503, 0.324]"
